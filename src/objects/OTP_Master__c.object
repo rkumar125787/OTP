@@ -109,6 +109,8 @@
         <label>OTP Master Name</label>
         <type>AutoNumber</type>
     </nameField>
+     <pluralLabel>OTP Masters</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
+    <visibility>Public</visibility>
 </CustomObject>
